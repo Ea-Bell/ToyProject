@@ -158,3 +158,6 @@ replay_pid*
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,java,intellij
+
+#Ignore file
+application.properties
